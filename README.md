@@ -1,9 +1,8 @@
-<h1 align="center">Hi :wave:, I'm Kartik Gothwak</h1>
+<h1 align="center">Hi :wave:, I'm Kartik Gothwal</h1>
 <h3 align="center">A passionate software developer from India.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- :seedling: I'm currently learning **MERN Stack**
 
 - :speech_balloon: Ask me about **NextJs, React, TypeScript**
 
