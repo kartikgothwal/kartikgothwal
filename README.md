@@ -1,21 +1,21 @@
-<h1 align="center">Hi :wave:, I'm Kartik Gothwal</h1>
-<h3 align="center">A passionate software developer from India.</h3>
+### Hi there 👋 
 
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+![image](https://github.com/LishuGupta652/lishugupta652/blob/master/dino.gif)
 
+🚀 **Full Stack Developer** | 💡 **Tech Enthusiast** | 🎨 **Design Aficionado**
 
-- :speech_balloon: Ask me about **NextJs, React, TypeScript**
+Hey there! 👋 I'm **Kartik Gupta**, a passionate Full Stack Developer who thrives on transforming ideas into impactful digital experiences. My tech stack is powered by **TypeScript**, **Node.js**, **React.js**, and **NestJS**, and I love complementing my coding expertise with design tools like **Figma** and **Blender** to craft visually stunning interfaces. 
 
-- :mailbox: How to reach me **kartikgothwal28@gmail.com**
+💻 **What I Do:**
+- **Front-End & Back-End Development**: I combine creativity with functionality to build seamless and captivating user interfaces.
+- **Cloud Computing Enthusiast**: Google Cloud Platform is my playground, where I create cloud functions, deploy scalable applications, and explore the vast world of cloud technologies. 
+- **Design with a Twist**: I use tools like Figma and Blender to bring ideas to life, turning concepts into reality with engaging visuals.
 
-- :zap: Fun fact **I google a lot:raised_hands:**
+🧩 **Open Source Advocate**: I strongly believe in the power of collaboration. By contributing to open-source projects, I aim to make technology more inclusive, robust, and accessible.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://linkedin.com/in/kashif-hussain-pathan-51a32a25b](https://www.linkedin.com/in/kartikgothwal/)" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="kartik" height="35" width="40" /></a>
- 
-</p>
+🌟 **Why Connect with Me?**
+Whether you're a fellow tech enthusiast, a curious learner, or someone looking to collaborate, I'm always excited to discuss ideas, solve problems, and create innovative solutions together. Let's build the digital future one line of code at a time!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="40" height="40"/></a>  <a href="https://css.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="40" height="40"/></a>  <a href="https://git.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40"/></a>  </p>
+📬 Feel free to reach out, and let's shape the tech world with creativity and passion. 🚀
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lishugupta652&layout=compact)](https://github.com/lishugupta652) -->
