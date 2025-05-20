@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer** | 💡 **Tech Enthusiast** | 🎨 **Design Aficionado**
 
-Hey there! 👋 I'm **Kartik Gothwal**, a passionate Full Stack Developer who thrives on transforming ideas into impactful digital experiences. My tech stack is powered by **TypeScript**, **Node.js**, **Nest.js**, **Express.js**, **React.js**, **Next.js** and **NestJS**, **AWS**, **Docker**, **Redux**, **Express**, **MongoDB**, **AWS** and I love complementing my coding expertise with design tools like **Figma** and **Blender** to craft visually stunning interfaces. 
+Hey there! 👋 I'm **Kartik Gothwal**, a passionate Full Stack Developer who thrives on transforming ideas into impactful digital experiences. My tech stack is powered by **TypeScript**, **Node.js**, **Express.js**, **React.js**, **Next.js** and **NestJS**, **AWS**, **Docker**, **Redux**, **Express**, **MongoDB**, **AWS** and I love complementing my coding expertise with design tools like **Figma** and **Blender** to craft visually stunning interfaces. 
 
 💻 **What I Do:**
 - **Front-End & Back-End Development**: I combine creativity with functionality to build seamless and captivating user interfaces.
